@@ -3,7 +3,7 @@ Static-Ecommerce is a static page using concepts like templates, components and 
 
 
 ## Deploy
-**[This API was deployed at https://bookstore-data-enrichment.herokuapp.com/](https://bookstore-data-enrichment.herokuapp.com)**
+**[This API was deployed at https://static-ecommerce.herokuapp.com//](https://static-ecommerce.herokuapp.com/)**
 
 ## Pre-Requisites
 
@@ -12,7 +12,7 @@ Static-Ecommerce is a static page using concepts like templates, components and 
 ## Install and Run this app
 
 - Clone the project:
-    git clone https://github.com/lucashdp/bookstore-data-enrichment.git
+    git clone https://github.com/lucashdp/static-ecommerce.git
 
 - Execute the command line (install dependences):
     npm install
