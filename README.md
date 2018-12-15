@@ -3,7 +3,7 @@ Static-Ecommerce is a static page using concepts like templates, components and 
 
 
 ## Deploy
-**[This API was deployed at https://static-ecommerce.herokuapp.com//](https://static-ecommerce.herokuapp.com/)**
+**[This Static Page was deployed at https://static-ecommerce.herokuapp.com//](https://static-ecommerce.herokuapp.com/)**
 
 ## Pre-Requisites
 
